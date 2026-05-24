@@ -66,7 +66,7 @@ At **NextMedia London**, the team manually searches for interesting professional
 ┌─────────────────┐      ┌──────────────────────────────────────────────────┐
 │   USER INPUT    │      │              GRADIO WEB DASHBOARD                │
 │                 │      │         http://127.0.0.1:7860                    │
-│ • Business Type │────▶│  7 Tabs: Dashboard │ Scrape │ AI Process │      │
+│ • Business Type │────▶│  7 Tabs: Dashboard │ Scrape │ AI Process │       │
 │ • Location      │      │  Database │ Email Preview │ Campaign │ Export    │
 │ • Target Count  │      └──────────────────┬───────────────────────────────┘
 └─────────────────┘                         │
