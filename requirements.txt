@@ -1,0 +1,19 @@
+# Core HTTP & Scraping
+requests
+beautifulsoup4
+playwright
+
+# AI
+openai
+
+# Data Handling
+pandas
+python-dotenv
+
+# CLI & Dashboard
+click
+rich
+gradio
+
+# Charts
+plotly>=5.0
